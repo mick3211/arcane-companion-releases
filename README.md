@@ -4,6 +4,8 @@ App Android para lhe auxíliar durante suas aventuras de Dungeons and Dragons 5�
 
 Para jogadores e até mesmo mestres de Dungeons and Dragons 5ª edição, este é o aplicativo definitivo para gerenciamento de personagens e aprimoramento da experiência de jogo. Ele oferece uma gama abrangente de recursos para facilitar a criação e gerenciamento de seus personagens e magias.
 
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" alt="Google Play" width="200"/>](https://play.google.com/store/apps/details?id=com.mick.arcane_companion)
+
 ## Principais recursos:
 
 ### Criação de personagens
